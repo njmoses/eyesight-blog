@@ -1,0 +1,8 @@
+/* Digital theme */
+.fullpage-bg {
+	background: url('../img/photos/tech/unsplash-2.jpg') no-repeat center center scroll; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
